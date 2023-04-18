@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetR27_2 Pin=VT7-1
+Removed Pin From Net: NetName=NetR23_1 Pin=VT7-2
+Removed Pin From Net: NetName=NetR5_1 Pin=VT7-3
+Change Component Footprint: Designator=VT4 Old Footprint=Infineon_Technologies_PG-TO252-3_MFG New Footprint=TO-263-3
+Change component parameters: Designator = "VT4" ("VT4"); Footprint = "Infineon_Technologies_PG-TO252-3_MFG"; UniqueID = "\CTTGVJJZ" ("\CTTGVJJZ")
+Change component parameters (AddParameter): Name = "ChannelType"; Value = "N-канальный"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentDescription"; Value = "Транзистор МОП, одиночный, N-канальный, IPB60R600P6, TO-263-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentType"; Value = "Транзистор МОП, одиночный"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TO-263-3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT5" ("VT5"); Footprint = "Infineon_Technologies_PG-TO252-3_MFG"; UniqueID = "\PWATOEMJ" ("\PWATOEMJ")
+Change component parameters (AddParameter): Name = "ChannelType"; Value = "N-канальный"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentDescription"; Value = "Транзистор МОП, одиночный, N-канальный, IPB60R600P6, TO-263-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentType"; Value = "Транзистор МОП, одиночный"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TO-263-3"; VariantName = "[No Variations]"
